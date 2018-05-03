@@ -1,0 +1,123 @@
+The Pattern : 
+*d
+may result in the output 
+acknowledged    1
+and    6
+considered    1
+cried    1
+fixed    1
+good    1
+had    1
+heard    1
+neighbourhood    1
+netherfield    1
+replied    1
+returned    1
+said    1
+told    1
+
+The Pattern : 
+a?
+may result in the output 
+at    2
+
+The Pattern : 
+?a?
+may result in the output 
+can    1
+cat    1
+day    1
+fat    1
+had    1
+has    2
+hat    1
+man    2
+map    1
+mat    1
+may    1
+was    1
+
+The Pattern : 
+??x
+may result in the output 
+No Words in the lexicon match  the pattern 
+
+The Pattern : 
+f*
+may result in the output 
+families    1
+fat    1
+feelings    1
+first    1
+fixed    1
+for    1
+fortune    1
+from    1
+
+The Pattern : 
+?f
+may result in the output 
+of    6
+
+The Pattern : 
+*i*
+may result in the output 
+considered    1
+cried    1
+drinking    1
+entering    1
+families    1
+feelings    1
+first    1
+fixed    1
+hearing    1
+him    1
+his    3
+i    1
+impatiently    1
+in    3
+invitation    1
+is    5
+it    5
+little    1
+minds    1
+neighbourhood    1
+netherfield    1
+objection    1
+possession    1
+prejudice    1
+pride    1
+reading    1
+replied    1
+rightful    1
+said    1
+single    1
+sitting    1
+surrounding    1
+their    1
+this    2
+universally    1
+views    1
+wearing    1
+while    1
+wife    2
+will    1
+
+The Pattern : 
+ma*
+may result in the output 
+made    1
+man    2
+map    1
+mat    1
+may    1
+
+The Pattern : 
+x*
+may result in the output 
+No Words in the lexicon match  the pattern 
+
+The Pattern : 
+*nn*
+may result in the output 
+bennet    3
